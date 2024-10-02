@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|c:\\users\\vlad1\\desktop\\dasha\\study\\laberinto\\assets\\scripts\\detectorfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectorfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\assets\\scripts\\detectorcolisionpared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectorcolisionpared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\assets\\scripts\\rotador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DAE1D6-D1AE-3F2C-923A-681A6A795AD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetectorFinish.cs",
+              "DocumentMoniker": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\DetectorFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectorFinish.cs",
+              "ToolTip": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\DetectorFinish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectorFinish.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:31:04.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rotador.cs",
+              "DocumentMoniker": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\Rotador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotador.cs",
+              "ToolTip": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\Rotador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:06:21.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetectorColisionPared.cs",
+              "DocumentMoniker": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\DetectorColisionPared.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectorColisionPared.cs",
+              "ToolTip": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\DetectorColisionPared.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectorColisionPared.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:09:43.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoJugador.cs",
+              "DocumentMoniker": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\MovimientoJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoJugador.cs",
+              "ToolTip": "C:\\Users\\vlad1\\Desktop\\dasha\\study\\laberinto\\Assets\\Scripts\\MovimientoJugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:40:47.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
